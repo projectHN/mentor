@@ -1,0 +1,984 @@
+2015-10-15 08:53:27 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 14:11:03 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:33:24 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:33:24 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:33:24 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:33:24 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:33:53 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:33:53 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:33:53 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:33:53 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:34:19 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:34:19 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:34:19 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:34:19 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:34:41 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:34:41 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:34:41 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:34:41 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:35:20 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:35:20 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:35:20 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:35:20 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:35:48 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:35:48 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-15 15:35:48 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-15 15:35:48 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 364
+Missing argument 2 for User\Model\UserMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/UserController.php on line 25 and defined
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 395
+Undefined variable: options
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 45
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-15 15:40:32 ==  IP: 118.70.211.226 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-16 09:12:56 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-19 22:24:35 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-19 23:06:52 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-19 23:07:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-19 23:07:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-19 23:07:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-19 23:07:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 115
+Missing argument 2 for Subject\Model\SubjectMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/SubjectController.php on line 26 and defined
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 123
+Undefined variable: options
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Subject/Subject.php - ErrLine: 53
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-19 23:25:50 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-21 08:27:59 ==  IP: 58.187.233.49 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:52:04 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:52:17 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:52:21 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:52:56 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:53:11 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:53:18 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:53:20 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 10:53:22 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 14:28:55 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 14:29:02 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-21 14:29:39 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:07 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:10 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:14 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=2 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:14 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=2 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-23 18:37:21 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:21 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-23 18:37:21 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-23 18:37:25 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:28 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=2 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 18:37:28 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=2 == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-23 18:37:30 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 22:13:51 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/experts/index/view?id=3 == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 22:14:23 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 22:14:26 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/user/signin?redirect=/experts/web-programming == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-23 22:14:32 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 22:14:44 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/experts/index/apply == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-23 22:14:45 ==  IP: 14.162.151.234 == mentor.funix.edu.vn/user/signin?redirect=/experts/web-programming == Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-24 10:36:08 ==  IP: 42.112.145.86 == mentor.funix.edu.vn/experts == Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-26 09:15:55 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/view?id=3 == Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-26 09:16:03 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-26 09:16:03 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-26 09:16:03 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/list?id=1 == Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 177
+Undefined index: categoryName
+
+2015-10-26 09:16:06 ==  IP: 1.55.240.140 == mentor.funix.edu.vn/experts/index/view?id=1 == Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 00:19:58 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:19:58 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:19:58 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:20:02 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:20:02 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:20:02 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:20:04 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:20:04 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:20:04 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:21:40 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:21:40 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:21:40 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:23:20 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:23:20 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:23:20 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:23:33 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:23:33 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:23:33 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:23:36 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:23:36 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:23:36 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:26:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/IndexController.php on line 16 and defined
+
+2015-10-27 00:26:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:26:07 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:34:08 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php on line 21 and defined
+
+2015-10-27 00:34:08 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:34:08 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:35:59 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 12
+Missing argument 1 for Home\Form\Search\Search::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php on line 21 and defined
+
+2015-10-27 00:35:59 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php - ErrLine: 15
+Undefined variable: serviceLocator
+
+2015-10-27 00:35:59 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/Search.php on line 15 and defined
+
+2015-10-27 00:37:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/SearchDetail.php - ErrLine: 17
+Missing argument 1 for Home\Form\Search\SearchDetail::__construct(), called in /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php on line 24 and defined
+
+2015-10-27 00:37:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/Search/SearchDetail.php - ErrLine: 20
+Undefined variable: serviceLocator
+
+2015-10-27 00:37:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 4096 - ErrFile: /opt/www/funix/mentor/module/Home/src/Home/Form/FormBase.php - ErrLine: 26
+Argument 1 passed to Home\Form\FormBase::setServiceLocator() must implement interface Zend\ServiceManager\ServiceLocatorInterface, null given, called in /opt/www/funix/mentor/module/Home/src/Home/Form/Search/SearchDetail.php on line 20 and defined
+
+2015-10-27 00:38:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 00:38:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 00:38:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 151
+Invalid argument supplied for foreach()
+
+2015-10-27 00:44:01 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 00:44:01 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 00:44:01 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 151
+Invalid argument supplied for foreach()
+
+2015-10-27 00:57:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 00:57:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 00:57:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+
+2015-10-27 00:58:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 00:58:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 00:58:42 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+
+2015-10-27 01:01:37 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 01:01:37 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 01:01:37 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+
+2015-10-27 01:02:09 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 01:02:09 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 01:02:09 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+
+2015-10-27 01:02:11 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin?redirect=/subject/subject/fetchall == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 01:03:06 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin?redirect=/subject/subject/fetchall == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 01:04:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 01:04:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 01:04:24 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+
+2015-10-27 01:04:25 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/subject/subject/fetchall == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:46:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/subject/subject/fetchall == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:47:28 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 05:47:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 05:51:23 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:23 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-27 05:51:23 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-27 05:51:23 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-27 05:51:29 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 366
+Missing argument 2 for User\Model\UserMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/UserController.php on line 25 and defined
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 397
+Undefined variable: options
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 45
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:30 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 115
+Missing argument 2 for Subject\Model\SubjectMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/SubjectController.php on line 26 and defined
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 123
+Undefined variable: options
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Subject/Subject.php - ErrLine: 53
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:32 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:34 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:34 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Expert/Expert.php - ErrLine: 49
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:34 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:34 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:34 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 366
+Missing argument 2 for User\Model\UserMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/UserController.php on line 25 and defined
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 397
+Undefined variable: options
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 45
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:37 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 115
+Missing argument 2 for Subject\Model\SubjectMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/SubjectController.php on line 26 and defined
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Subject/src/Subject/Model/SubjectMapper.php - ErrLine: 123
+Undefined variable: options
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Subject/Subject.php - ErrLine: 53
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:39 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/subject == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 62
+Undefined offset: 3
+
+2015-10-27 05:51:40 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:40 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Expert/Expert.php - ErrLine: 49
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:40 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:40 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:40 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 366
+Missing argument 2 for User\Model\UserMapper::search(), called in /opt/www/funix/mentor/module/Admin/src/Admin/Controller/UserController.php on line 25 and defined
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php - ErrLine: 397
+Undefined variable: options
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 45
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/User/User.php - ErrLine: 82
+Undefined variable: status
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/user == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 75
+Undefined offset: 3
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 33
+mkdir(): Permission denied
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 34
+chmod(): No such file or directory
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 37
+mkdir(): No such file or directory
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 38
+chmod(): No such file or directory
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 40
+scandir(/user/avatar): failed to open dir: No such file or directory
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 40
+scandir(): (errno 2): No such file or directory
+
+2015-10-27 05:51:54 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 42
+Invalid argument supplied for foreach()
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 33
+mkdir(): Permission denied
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 34
+chmod(): No such file or directory
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 37
+mkdir(): No such file or directory
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 38
+chmod(): No such file or directory
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 40
+scandir(/user/avatar): failed to open dir: No such file or directory
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 40
+scandir(): (errno 2): No such file or directory
+
+2015-10-27 05:51:59 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/profile == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/User/src/User/Controller/ProfileController.php - ErrLine: 42
+Invalid argument supplied for foreach()
+
+2015-10-27 06:12:29 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 06:12:30 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 06:12:35 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 06:25:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 06:25:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 60
+Undefined offset: 2
+
+2015-10-27 06:25:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 73
+Undefined offset: 2
+
+2015-10-27 06:25:43 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 86
+Undefined offset: 2
+
+2015-10-27 06:25:46 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/Plugin/Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-27 06:25:46 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/src/Admin/DataGrid/Expert/Expert.php - ErrLine: 49
+Object of class ZendX\Paginator\Paginator could not be converted to int
+
+2015-10-27 06:25:46 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 06:25:46 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 06:25:46 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/admin/expert == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Admin/view/admin/layout/layout.phtml - ErrLine: 88
+Undefined offset: 3
+
+2015-10-27 06:26:14 ==  IP: 42.113.19.75 == mentor.funix.edu.vn/user/signin == Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:41.0) Gecko/20100101 Firefox/41.0
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/User/view/user/user/signin.phtml - ErrLine: 39
+Undefined index: captcha
+
+2015-10-27 07:52:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 157
+Undefined variable: expertIds
+
+2015-10-27 07:52:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 8 - ErrFile: /opt/www/funix/mentor/module/Expert/src/Expert/Model/Expert/SubjectMapper.php - ErrLine: 171
+Undefined variable: mentors
+
+2015-10-27 07:52:22 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/home/search == Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/module/Home/view/home/search/index.phtml - ErrLine: 152
+Invalid argument supplied for foreach()
+

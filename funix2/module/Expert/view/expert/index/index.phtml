@@ -1,0 +1,168 @@
+<?php
+$this->headLink()->prependStylesheet('/css/home/directory_new_for_clients.css');
+$this->headScript()->appendFile('/tp/v1/js/expert/index/index.js');
+$subjectsCategory = $this->subjects;
+?>
+<div class="topBlock">
+    <div class="customizeContainer">
+
+            <div class="row-fluid">
+                <?php include(TEMPLATES_PATH.'\html\expert.html')?>
+                <?php if(!$this->user()->getIdentity()){?>
+                    <a class="actionLink" data-target="#signup-modal" data-toggle="modal" role="button">
+                        Nhận sự giúp đỡ luôn
+                    </a>
+                <?php }?>
+            </div>
+    </div>
+</div>
+<div class="breadcrumb">
+    <div class="customizeContainer">
+        <div class="row-fluid">
+            <div class="span12">
+                <div :xmlns:v="http://rdf.data-vocabulary.org/#" class="innerBreadcrumb">
+<span ng-hide="loaded" typeof="v:Breadcrumb">
+<span class="lastLink" typeof="v:Breadcrumb">
+Expert Mentors
+</span>
+</span>
+                    <!-- ngIf: loaded -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="searchBlock">
+    <div class="customizeContainer">
+        <div class="row-fluid">
+            <div class="span9">
+                <div class="searchBarContent">
+                    <div class="control-group text required question_category_names tagInput ng-scope" ng-controller="CategoryCtrl as cc" ng-init="cc.setDefaultRecommand(['ruby-on-rails','javascript','php','python','ios','android']);max=5;cc.initTags([])" ng-keyup="detectSubmit($event)">
+                        <div class="controls" ng-class="{requiredWarning:requiredWarning}">
+                            <tags-input max-tags="100" min-length="1" ng-model="tags" on-tag-added="cc.onAddTag($tag)" on-tag-removed="cc.onRemoveTag($tag)" placeholder="Type category name (eg. JavaScript)" class="ng-pristine ng-untouched ng-valid ng-isolate-scope ng-valid-max-tags ng-valid-min-tags ng-valid-leftover-text"><div class="host" tabindex="-1" ng-click="eventHandlers.host.click()" ti-transclude-append=""><div class="tags" ng-class="{focused: hasFocus}"><ul class="tag-list"><!-- ngRepeat: tag in tagList.items track by track(tag) --></ul><input class="input ng-pristine ng-untouched ng-valid" autocomplete="off" ng-model="newTag.text" ng-change="eventHandlers.input.change(newTag.text)" ng-keydown="eventHandlers.input.keydown($event)" ng-focus="eventHandlers.input.focus($event)" ng-blur="eventHandlers.input.blur($event)" ng-paste="eventHandlers.input.paste($event)" ng-trim="false" ng-class="{'invalid-tag': newTag.invalid}" ng-disabled="disabled" ti-bind-attrs="{type: options.type, placeholder: options.placeholder, tabindex: options.tabindex, spellcheck: options.spellcheck}" ti-autosize="" type="text" placeholder="Type category name (eg. JavaScript)" spellcheck="true" style="width: 243px;"><span class="input" style="visibility: hidden; width: auto; white-space: pre; display: none;">Type category name (eg. JavaScript)</span></div>
+                                    <auto-complete min-length="1" source="cc.loadTags($query)" class="ng-scope ng-isolate-scope"><!-- ngIf: suggestionList.visible --></auto-complete>
+                                </div></tags-input>
+                        </div>
+                        <!-- ngRepeat: tag in tags -->
+                    </div>
+                </div>
+                <div class="searchButton" ng-click="searchAlgolia(true)">
+                    Search
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="resultBlock">
+    <div class="customizeContainer">
+    <div class="switchBlock">
+    <div class="row-fluid">
+        <?php foreach($subjectsCategory as $category=>$subjects){ ?>
+            <div class="span4">
+                <div class="topicBlock">
+                    <a class="link" href="/experts/index/list?id=<?=explode('-',$category)[0]?>">
+                        <center>
+                            <img alt="<?=explode('-',$category)[1]?>" class="imgBlock" src="/images/topic/web-programming.png">
+                            <span class="titleBlock"><?=explode('-',$category)[1]?></span>
+                        </center>
+                    </a>
+                    <div class="moreLink">
+                        <?php
+                        $count = 0;
+                        foreach($subjects as $subject){
+                            $count++;
+                            if($count == 1){
+                                if(count($subjects) > 1){
+                                ?>
+                                <div class="row-fluid">
+                                <div class="span6">
+                                    <img class="catImg" src="/images/experts/ruby-expert-help.png">
+                                    <a class="catLink" href="/experts/index/view?id=<?=$subject['id'] ?>">
+                                        <?=$subject['name']?>
+                                    </a>
+                                </div>
+                                <?php
+                                }else{
+                                    ?>
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                            <img class="catImg" src="/images/experts/ruby-expert-help.png">
+                                            <a class="catLink" href="/experts/index/view?id=<?=$subject['id'] ?>">
+                                                <?=$subject['name']?>
+                                            </a>
+                                        </div>
+                                     </div>
+                                    <?php
+                                }
+                            }elseif($count == 2) {
+                                $count = 0;
+                                ?>
+                                <div class="span6">
+                                    <img class="catImg" src="/images/experts/ruby-expert-help.png">
+                                    <a class="catLink" href="/experts/index/view?id=<?=$subject['id'] ?>">
+                                        <?= $subject['name'] ?>
+                                    </a>
+                                </div>
+                                </div>
+                                <?php
+                            }
+
+                         } ?>
+                    </div>
+                </div>
+            </div>
+        <?php } ?>
+    </div>
+</div>
+</div>
+    </div>
+
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal hide fade" id="signup-modal" menu-sign-up-form="" role="dialog" tabindex="-1">
+    <div class="modal-header">
+        <h3 class="ng-binding">
+            Sign Up and Get Help Now
+        </h3>
+    </div>
+    <div class="modal-body" style="overflow: hidden;">
+
+        <div class="extra-info alter alert-success ng-binding ng-hide" ng-show="sf.extraInfo">
+
+        </div>
+        <div class="row-fluid">
+            <div class="span5">
+                <div class="leftBlock">
+                    <p class="signup-txt">
+                        <b>
+                            Codementor
+                        </b>
+                        your instant 1:1 expert mentor helping you in real time.
+                    </p>
+                    <div class="muted">
+                        Have an account?
+                        <a href="/users/sign_in">Sign In</a>
+                    </div>
+                    <div class="applyMentor">
+                        <a class="side_link" href="/mentor/apply" ng-hide="sf.becomeMentorLink===false">Want to become a Codementor?</a>
+                    </div>
+                </div>
+            </div>
+            <div class="span7">
+                <div class="menuSignUpForm">
+                        <div class="sign_up_form">
+                            <input label="false" class="string email required bigform input_email" type="email" pattern=".*" placeholder="Email address" name="email" id="user_email">
+                            <div class="action clearfix">
+                                <button type="submit" id="signupemail" name="commit" class="btn btn-primary pull-right">Sign Up</button>
+                                <div class="muted pull-right termOfService">
+                                    By clicking the button, you agree to the
+                                    <a href="/terms" target="_blank">terms</a>
+                                </div>
+                            </div>
+                            <div id="errorModal"></div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

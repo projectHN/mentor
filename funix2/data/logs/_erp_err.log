@@ -1,0 +1,204 @@
+2015-10-13 10:52:59 ==  IP: 127.0.0.1 == funix.com:82/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: D:\xampp\htdocs\Funix\public\index.php - ErrLine: 67
+Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\Funix\public\index.php:6)
+
+2015-10-13 10:53:00 ==  IP: 127.0.0.1 == funix.com:82/favicon.ico == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: D:\xampp\htdocs\Funix\public\index.php - ErrLine: 67
+Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\Funix\public\index.php:6)
+
+2015-10-13 10:56:16 ==  IP: 127.0.0.1 == funix.com:82/experts == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: D:\xampp\htdocs\Funix\vendor\Zend\Mvc\Controller\Plugin\Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-13 11:53:17 ==  IP: 127.0.0.1 == funix.com:82/experts == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 8 - ErrFile: D:\xampp\htdocs\Funix\vendor\Zend\Mvc\Controller\Plugin\Layout.php - ErrLine: 33
+Array to string conversion
+
+2015-10-13 14:18:21 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-13 14:18:58 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-13 14:20:40 ==  IP: 42.114.255.44 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 18:55:21 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/system/api/getuser?token=70877adf273f6696fe952b0555ea491d == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 18:56:31 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/system/api/getuser?token=70877adf273f6696fe952b0555ea491d == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 18:58:46 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:00:30 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:01:17 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:02:40 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:04:14 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:04:47 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:05:25 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:05:44 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\module\Home\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:07:09 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:12:17 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/Loader/ModuleAutoloader.php - ErrLine: 147
+require_once(D:\xampp\htdocs\Funix\vendor\EdpModuleLayouts\Module.php): failed to open stream: No such file or directory
+
+2015-10-14 19:35:04 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/View/Renderer/PhpRenderer.php - ErrLine: 501
+include(D:\xampp\htdocs\Funix\module\Home\config/../view/error/index.phtml): failed to open stream: No such file or directory
+
+2015-10-14 19:35:04 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/View/Renderer/PhpRenderer.php - ErrLine: 501
+include(): Failed opening 'D:\xampp\htdocs\Funix\module\Home\config/../view/error/index.phtml' for inclusion (include_path=':/opt/www/funix/mentor/vendor:.:/usr/share/pear:/usr/share/php')
+
+2015-10-14 19:36:38 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:36:38 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:36:41 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/assets/ajax-loader.gif == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:36:41 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/assets/ajax-loader.gif == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:36:55 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/img/glyphicons-halflings.png == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:36:55 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/img/glyphicons-halflings.png == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:37:44 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:37:44 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/ == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:37:49 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/assets/ajax-loader.gif == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:37:49 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/assets/ajax-loader.gif == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:38:07 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/img/glyphicons-halflings.png == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-config-cache.php): failed to open stream: Permission denied
+
+2015-10-14 19:38:07 ==  IP: 42.112.3.98 == mentor.funix.edu.vn/img/glyphicons-halflings.png == Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ErrNo: 2 - ErrFile: /opt/www/funix/mentor/vendor/Zend/ModuleManager/Listener/AbstractListener.php - ErrLine: 68
+file_put_contents(./data/cache/module-classmap-cache.php): failed to open stream: Permission denied
+
+2015-10-27 01:05:05  mentor.funix.edu.vn/home/search/findmentor
+
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+UserId: 
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'activeKey' in 'field list'
+/opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php - Line: 360
+#0 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php(360): PDO->query('INSERT INTO `us...')
+#1 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Adapter.php(190): Zend\Db\Adapter\Driver\Pdo\Connection->execute('INSERT INTO `us...')
+#2 /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php(59): Zend\Db\Adapter\Adapter->query('INSERT INTO `us...', 'execute')
+#3 /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php(65): User\Model\UserMapper->save(Object(User\Model\User))
+#4 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractActionController.php(82): Home\Controller\SearchController->findmentorAction()
+#5 [internal function]: Zend\Mvc\Controller\AbstractActionController->onDispatch(Object(Zend\Mvc\MvcEvent))
+#6 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#7 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#8 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractController.php(118): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#9 /opt/www/funix/mentor/vendor/Zend/Mvc/DispatchListener.php(93): Zend\Mvc\Controller\AbstractController->dispatch(Object(Zend\Http\PhpEnvironment\Request), Object(Zend\Http\PhpEnvironment\Response))
+#10 [internal function]: Zend\Mvc\DispatchListener->onDispatch(Object(Zend\Mvc\MvcEvent))
+#11 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#12 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#13 /opt/www/funix/mentor/vendor/Zend/Mvc/Application.php(314): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#14 /opt/www/funix/mentor/public/index.php(103): Zend\Mvc\Application->run()
+#15 {main}
+
+
+2015-10-27 01:05:23  mentor.funix.edu.vn/home/search/findmentor
+
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+UserId: 
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'activeKey' in 'field list'
+/opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php - Line: 360
+#0 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php(360): PDO->query('INSERT INTO `us...')
+#1 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Adapter.php(190): Zend\Db\Adapter\Driver\Pdo\Connection->execute('INSERT INTO `us...')
+#2 /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php(59): Zend\Db\Adapter\Adapter->query('INSERT INTO `us...', 'execute')
+#3 /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php(65): User\Model\UserMapper->save(Object(User\Model\User))
+#4 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractActionController.php(82): Home\Controller\SearchController->findmentorAction()
+#5 [internal function]: Zend\Mvc\Controller\AbstractActionController->onDispatch(Object(Zend\Mvc\MvcEvent))
+#6 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#7 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#8 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractController.php(118): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#9 /opt/www/funix/mentor/vendor/Zend/Mvc/DispatchListener.php(93): Zend\Mvc\Controller\AbstractController->dispatch(Object(Zend\Http\PhpEnvironment\Request), Object(Zend\Http\PhpEnvironment\Response))
+#10 [internal function]: Zend\Mvc\DispatchListener->onDispatch(Object(Zend\Mvc\MvcEvent))
+#11 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#12 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#13 /opt/www/funix/mentor/vendor/Zend/Mvc/Application.php(314): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#14 /opt/www/funix/mentor/public/index.php(103): Zend\Mvc\Application->run()
+#15 {main}
+
+
+2015-10-27 01:08:18  mentor.funix.edu.vn/home/search/findmentor
+
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+UserId: 
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'password' cannot be null
+/opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php - Line: 360
+#0 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Driver/Pdo/Connection.php(360): PDO->query('INSERT INTO `us...')
+#1 /opt/www/funix/mentor/vendor/Zend/Db/Adapter/Adapter.php(190): Zend\Db\Adapter\Driver\Pdo\Connection->execute('INSERT INTO `us...')
+#2 /opt/www/funix/mentor/module/User/src/User/Model/UserMapper.php(59): Zend\Db\Adapter\Adapter->query('INSERT INTO `us...', 'execute')
+#3 /opt/www/funix/mentor/module/Home/src/Home/Controller/SearchController.php(65): User\Model\UserMapper->save(Object(User\Model\User))
+#4 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractActionController.php(82): Home\Controller\SearchController->findmentorAction()
+#5 [internal function]: Zend\Mvc\Controller\AbstractActionController->onDispatch(Object(Zend\Mvc\MvcEvent))
+#6 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#7 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#8 /opt/www/funix/mentor/vendor/Zend/Mvc/Controller/AbstractController.php(118): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#9 /opt/www/funix/mentor/vendor/Zend/Mvc/DispatchListener.php(93): Zend\Mvc\Controller\AbstractController->dispatch(Object(Zend\Http\PhpEnvironment\Request), Object(Zend\Http\PhpEnvironment\Response))
+#10 [internal function]: Zend\Mvc\DispatchListener->onDispatch(Object(Zend\Mvc\MvcEvent))
+#11 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(444): call_user_func(Array, Object(Zend\Mvc\MvcEvent))
+#12 /opt/www/funix/mentor/vendor/Zend/EventManager/EventManager.php(205): Zend\EventManager\EventManager->triggerListeners('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#13 /opt/www/funix/mentor/vendor/Zend/Mvc/Application.php(314): Zend\EventManager\EventManager->trigger('dispatch', Object(Zend\Mvc\MvcEvent), Object(Closure))
+#14 /opt/www/funix/mentor/public/index.php(103): Zend\Mvc\Application->run()
+#15 {main}
+
+
